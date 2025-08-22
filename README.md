@@ -2,8 +2,7 @@
 
 ## About Me:
 - 💻 Currently working on Web Development & Cloud Projects.
-- 🚀 Exploring AWS, Kubernetes, and Flask/Django frameworks.
-- 📊 Interested in AI/ML, Computer Vision, and Automation.
+- 🚀 Exploring AWS, and Flask/Django frameworks.
 - 💬 Ask me about Python, Flask, Django, and DevOps tools.
 
 ---
