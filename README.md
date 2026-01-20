@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 💻 Working on Web Development & Cloud Projects  
 - 🌱 Learning AWS & Backend Frameworks  
-- 🔧 Skilled in **Python, Flask, Django, Docker**  
+- 🔧 Skilled in **Python, Flask, Django,FastAPI, Docker**  
 
 ---
 
@@ -16,7 +16,7 @@
 ---
 
 ## ⚡ Tech Stack
-`Python` | `Flask` | `Django` | `MySQL` | `AWS` | `Docker` | `HTML5` | `CSS3` | `JavaScript`
+`Python` | `Flask` | `Django` | `MySQL` | `PostgreSQL` | `AWS` | `Docker` | `HTML5` | `CSS3` | `JavaScript`
 
 ---
 
